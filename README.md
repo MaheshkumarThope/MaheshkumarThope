@@ -13,22 +13,21 @@ I love solving real-world problems using **Spring Boot, React, AWS, Docker, and 
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack:
 
-### 💻 Backend
-- Java | Spring Boot | REST APIs  
-- Microservices | Spring Security | Hibernate
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-### 🎨 Frontend
-- React | TypeScript | HTML | CSS
-
-### ☁ Cloud & DevOps
-- AWS (EC2, RDS)
-- Docker | CI/CD
-
-### 🧠 AI & Automation
-- LLM API Integrations
-- Intelligent workflow automation
 
 ---
 
