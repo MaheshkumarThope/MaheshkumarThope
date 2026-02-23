@@ -75,7 +75,7 @@ I love solving real-world problems using **Spring Boot, React, AWS, Docker, and 
   <a href="mailto:maheshyadavp3344@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="www.linkedin.com/in/mahesh-kumar-paka">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/">
