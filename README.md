@@ -43,7 +43,7 @@ I love solving real-world problems using **Spring Boot, React, AWS, Docker, and 
 
 ## 💼 Experience
 
-### 📍 Java Full Stack Developer – Adobe  
+### 📍 Java Full Stack Developer  
 - Built AI-enabled REST APIs  
 - Implemented microservices with async processing  
 - Improved caching with Redis  
